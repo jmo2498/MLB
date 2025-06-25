@@ -1,0 +1,11 @@
+runtime: python39
+service: api
+entrypoint: gunicorn -b :$PORT main:app
+
+handlers:
+  - url: /game-data
+    script: auto
+    secure: always
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: "creds"

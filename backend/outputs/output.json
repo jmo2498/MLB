@@ -1,0 +1,296 @@
+{
+    "date": "2024-06-22",
+    "your_team_id": 134,
+    "game_pk": 745486,
+    "game_info": {
+        "teams": {
+            "home": {
+                "team_id": 134,
+                "score": 4,
+                "record": "37-39 (.487)"
+            },
+            "away": {
+                "team_id": 139,
+                "score": 3,
+                "record": "37-40 (.481)"
+            }
+        },
+        "result": {
+            "winner": "Pittsburgh Pirates",
+            "loser": "Tampa Bay Rays"
+        },
+        "venue": "PNC Park",
+        "content_link": "/api/v1/game/745486/content"
+    },
+    "detailed_info": {
+        "date": "2024-06-22",
+        "time": "4:05",
+        "venue": "PNC Park",
+        "venue_id": 31,
+        "day_night": "day",
+        "home_team": "Pittsburgh Pirates",
+        "home_team_id": 134,
+        "away_team": "Tampa Bay Rays",
+        "away_team_id": 139,
+        "away_pitcher": {
+            "id": 621107,
+            "fullName": "Zach Eflin",
+            "link": "/api/v1/people/621107"
+        },
+        "home_pitcher": {
+            "id": 683003,
+            "fullName": "Jared Jones",
+            "link": "/api/v1/people/683003"
+        }
+    },
+    "line_score": {
+        "current_inning": "9th (Top)",
+        "scheduled_innings": 9,
+        "innings": [
+            {
+                "inning": 1,
+                "home": {
+                    "runs": 1,
+                    "hits": 1,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 1,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 2
+                }
+            },
+            {
+                "inning": 2,
+                "home": {
+                    "runs": 0,
+                    "hits": 1,
+                    "errors": 0,
+                    "left_on_base": 1
+                },
+                "away": {
+                    "runs": 0,
+                    "hits": 1,
+                    "errors": 0,
+                    "left_on_base": 0
+                }
+            },
+            {
+                "inning": 3,
+                "home": {
+                    "runs": 3,
+                    "hits": 3,
+                    "errors": 0,
+                    "left_on_base": 1
+                },
+                "away": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                }
+            },
+            {
+                "inning": 4,
+                "home": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 1,
+                    "hits": 2,
+                    "errors": 0,
+                    "left_on_base": 1
+                }
+            },
+            {
+                "inning": 5,
+                "home": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 1
+                }
+            },
+            {
+                "inning": 6,
+                "home": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 1
+                }
+            },
+            {
+                "inning": 7,
+                "home": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                }
+            },
+            {
+                "inning": 8,
+                "home": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 0,
+                    "hits": 1,
+                    "errors": 0,
+                    "left_on_base": 2
+                }
+            },
+            {
+                "inning": 9,
+                "home": {
+                    "runs": 0,
+                    "hits": 0,
+                    "errors": 0,
+                    "left_on_base": 0
+                },
+                "away": {
+                    "runs": 1,
+                    "hits": 1,
+                    "errors": 0,
+                    "left_on_base": 1
+                }
+            }
+        ],
+        "totals": {
+            "home": {
+                "runs": 4,
+                "hits": 5,
+                "errors": 0,
+                "left_on_base": 2
+            },
+            "away": {
+                "runs": 3,
+                "hits": 5,
+                "errors": 0,
+                "left_on_base": 8
+            }
+        }
+    },
+    "highlights": [
+        {
+            "inning": 1,
+            "isTop": false,
+            "description": "Oneil Cruz homers (10) on a fly ball to right field.",
+            "event_type": "home_run",
+            "playId": "70842740-25c5-4fe9-b502-ff6447ce6471",
+            "score": 9,
+            "batter": {
+                "id": 665833,
+                "fullName": "Oneil Cruz"
+            },
+            "pitcher": {
+                "id": 621107,
+                "fullName": "Zach Eflin"
+            }
+        },
+        {
+            "inning": 9,
+            "isTop": true,
+            "description": "Yandy D\u00edaz doubles (15) on a line drive to center fielder Michael A.   Taylor.   Jos\u00e9 Caballero scores.",
+            "event_type": "double",
+            "playId": "f3908292-47ef-4846-890f-7c35e7cd30dc",
+            "score": 7,
+            "batter": {
+                "id": 650490,
+                "fullName": "Yandy D\u00edaz"
+            },
+            "pitcher": {
+                "id": 547973,
+                "fullName": "Aroldis Chapman"
+            }
+        },
+        {
+            "inning": 3,
+            "isTop": false,
+            "description": "Bryan Reynolds singles on a line drive to left fielder Randy Arozarena.   Andrew McCutchen scores.",
+            "event_type": "single",
+            "playId": "725156e5-0b6f-419b-9a20-78441ffb2393",
+            "score": 5,
+            "batter": {
+                "id": 668804,
+                "fullName": "Bryan Reynolds"
+            },
+            "pitcher": {
+                "id": 621107,
+                "fullName": "Zach Eflin"
+            }
+        },
+        {
+            "inning": 3,
+            "isTop": false,
+            "description": "Rowdy Tellez singles on a line drive to right fielder Josh Lowe.   Bryan Reynolds scores.    Oneil Cruz to 3rd.",
+            "event_type": "single",
+            "playId": "ed119815-ed6e-4c1d-a399-bef93d2c0078",
+            "score": 5,
+            "batter": {
+                "id": 642133,
+                "fullName": "Rowdy Tellez"
+            },
+            "pitcher": {
+                "id": 621107,
+                "fullName": "Zach Eflin"
+            }
+        },
+        {
+            "inning": 1,
+            "isTop": true,
+            "description": "Josh Lowe grounds out, shortstop Oneil Cruz to first baseman Rowdy Tellez.   Brandon Lowe scores.    Randy Arozarena to 3rd.",
+            "event_type": "field_out",
+            "playId": "c11c43cb-22d2-45e1-bd60-386211d29d8f",
+            "score": 4,
+            "batter": {
+                "id": 666139,
+                "fullName": "Josh Lowe"
+            },
+            "pitcher": {
+                "id": 683003,
+                "fullName": "Jared Jones"
+            }
+        }
+    ],
+    "content_data": {
+        "headlines": [
+            "Jones moves past 'really scary' moment to once again dominate"
+        ],
+        "seo_titles": [
+            "Jared Jones strikes out 8 in Pirates' win over Rays"
+        ],
+        "closest_video_url": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/22/0ac5644a-38e19bb0-67b91b10-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "closest_video_title": "Jared Jones fans eight across seven innings",
+        "closest_video_description": "Jared Jones has a solid start against the Rays, striking out eight batters across seven innings of work"
+    },
+    "detailed_summary": "The Pittsburgh Pirates edged out the Tampa Bay Rays 4-3 in a tight contest at PNC Park.  The Rays struck first in the top of the first inning when Brandon Lowe scored on a Josh Lowe groundout, giving Tampa Bay an early 1-0 lead.  However, the Pirates responded immediately in the bottom half of the frame when Oneil Cruz launched a solo home run to right field, tying the game at 1-1.  Pittsburgh then took the lead in the third inning, capitalizing on a series of timely hits. Bryan Reynolds drove in Andrew McCutchen with a single, and then Rowdy Tellez followed suit with another single to score Reynolds, putting the Pirates up 3-1. This early offensive surge by the Pirates proved crucial in setting the tone for the rest of the game.\n\nWhile the Rays' offense was relatively quiet for much of the game, they threatened in the final inning.  Yandy D\u00edaz doubled in the top of the ninth, scoring Jos\u00e9 Caballero and narrowing the Pirates' lead to 4-3.  The tension mounted as the Rays attempted to complete the comeback, but the Pirates' pitching staff held firm, securing the narrow one-run victory.  Despite the late rally, Tampa Bay couldn't overcome the deficit created by the Pirates' early offensive outburst, and Pittsburgh ultimately claimed the win.\n",
+    "concise_summary": "Oneil Cruz's 10th home run powered the Pittsburgh Pirates to a 4-3 victory over the Tampa Bay Rays. \n"
+}
