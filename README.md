@@ -14,3 +14,4 @@ Generates clean, natural-language reports using a Generative AI model
 
 Includes player highlights, game outcomes, and contextual team insights
 
+https://www.youtube.com/watch?v=YHwjT2N7XIw&t=47s
