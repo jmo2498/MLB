@@ -1,17 +1,45 @@
-# MLB
-MLB App that gives an AI generated summary of any team that played a game on that day
-MLB AI Insights
-MLB AI Insights is a Python-based application that uses Generative AI to create human-readable summaries of Major League Baseball games. Users can input any date or team, and the app will return AI-generated highlights, key statistics, and narrative insights based on live data from the MLB API.
+ MLB AI Insights
 
-Features
-Query by date to see summaries of all games played on that day
+**MLB AI Insights** is a web application that uses Generative AI to create human-readable summaries of Major League Baseball games. Users can select any **date** or **team** to see detailed highlights, key stats, and narrative insights based on live MLB data.
 
-Query by team to get season-to-date or recent game analysis
+---
 
-Integrates with the official MLB Stats API to fetch real-time game data
+ Features
 
-Generates clean, natural-language reports using a Generative AI model
+- Search by **date** to see AI-generated summaries of all games played that day
+- Search by **team** for season-to-date or recent game analysis
+- Integrates with the **MLB Stats API** for live game data
+- Generates clear, natural-language reports using a Generative AI model
+- Includes **player highlights**, **game outcomes**, and **team insights**
 
-Includes player highlights, game outcomes, and contextual team insights
+---
 
-https://www.youtube.com/watch?v=YHwjT2N7XIw&t=47s
+##  Demo
+
+[![Watch on YouTube](https://img.youtube.com/vi/YHwjT2N7XIw/0.jpg)](https://www.youtube.com/watch?v=YHwjT2N7XIw&t=47s)
+
+---
+
+## Tech Stack
+
+- **Frontend:** TypeScript
+- **Framework:** React
+- **Backend:** Python (Flask)
+- **Cloud Services:** Google Cloud
+- **Data Source:** MLB Stats API
+- **AI:** Generative LLM for text generation
+---
+
+##  How It Works
+
+1. User selects a **date** or **team** in the UI
+2. The app fetches live game data from the **MLB Stats API**
+3. Data is processed and summarized with a **Generative AI model**
+4. The user sees a clean, human-friendly summary with highlights and insights
+
+---
+
+##  Deployment
+
+- Frontend deployed on Google Cloud (e.g. Firebase Hosting or Cloud Storage)
+- Secure integration with MLB Stats API and AI services
